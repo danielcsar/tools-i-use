@@ -18,6 +18,7 @@ Tools for development.
   - [Docker Compose](https://docs.docker.com/compose/)
   - [Docker Desktop](https://docs.docker.com/desktop/install) <!-- sudo apt-get install ./docker-desktop-<version>-<arch>.deb -->
 - [DBeaver](https://flathub.org/apps/details/io.dbeaver.DBeaverCommunity) <!-- sudo snap install dbeaver-ce -->
+- [Postman](https://flathub.org/apps/details/com.getpostman.Postman) <!-- sudo snap install postman -->
 - [Brave Browser](https://brave.com/)
   - [React Dev Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [NodeJS](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
