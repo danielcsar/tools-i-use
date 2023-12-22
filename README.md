@@ -21,9 +21,10 @@ Tools for development.
 - [Brave Browser](https://brave.com/)
   - [React Dev Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [NodeJS](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
-- [Pipenv](https://github.com/pypa/pipenv/)
-- [PyEnv](https://github.com/pyenv/pyenv)
-- [Poetry](https://python-poetry.org/)
+- [Python](https://python.org.br/instalacao-linux/)
+  - [Pipenv](https://github.com/pypa/pipenv/)
+  - [PyEnv](https://github.com/pyenv/pyenv)
+  - [Poetry](https://python-poetry.org/)
 - [IntelliJ Ultimate](https://www.jetbrains.com/idea/download) <!-- sudo snap install intellij-idea-ultimate --classic -->
   - [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements)
   - [.env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
