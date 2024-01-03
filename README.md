@@ -39,8 +39,19 @@ Tools for development.
   - [Sonar Lint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
   - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 - [Visual Studio Code](https://flathub.org/apps/details/com.visualstudio.code) <!-- sudo snap install --classic code -->
-  - [IntelliJ Darcula Theme](https://marketplace.visualstudio.com/items?itemName=fisenkodv.vscode-intellij-darcula-theme)
-  - [Atom Material Icons]()
+  - [IntelliJ Neo Dark Theme](https://marketplace.visualstudio.com/items?itemName=hyperdarker.intellij-neo-dark)
+  - [Atom Material Icons](https://marketplace.visualstudio.com/items?itemName=AtomMaterial.a-file-icon-vscode)
+  - [Bracket Pair Color](https://marketplace.visualstudio.com/items?itemName=BracketPairColorDLW.bracket-pair-color-dlw)
+  - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+  - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
+  - [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+  - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+  - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+  - [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+  - [Turbo Python Print](https://marketplace.visualstudio.com/items?itemName=FedrickNishant.turbo-python-print)
 
 ___________________________________________________________________________________________________________________________
 
