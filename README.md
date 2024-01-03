@@ -52,6 +52,7 @@ Tools for development.
   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
   - [Turbo Python Print](https://marketplace.visualstudio.com/items?itemName=FedrickNishant.turbo-python-print)
+  - [String Manipulation](https://marketplace.visualstudio.com/items?itemName=marclipovsky.string-manipulation)
 
 ___________________________________________________________________________________________________________________________
 
