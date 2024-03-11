@@ -53,6 +53,7 @@ Tools for development.
   - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
   - [Turbo Python Print](https://marketplace.visualstudio.com/items?itemName=FedrickNishant.turbo-python-print)
   - [String Manipulation](https://marketplace.visualstudio.com/items?itemName=marclipovsky.string-manipulation)
+  - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 ___________________________________________________________________________________________________________________________
 
